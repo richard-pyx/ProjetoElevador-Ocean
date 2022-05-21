@@ -19,7 +19,7 @@ namespace ProjetoElevador
             //Inicializa-se uma variavel de controle do loop e das escolhas.
             string opcaoEscolhida = "";
             
-            Console.Clear(); //Limpa o console para exibir as opções de maneira clara.
+            Console.Clear(); //Limpa o console para exibir às opções de maneira mais objetiva.
             Console.WriteLine("O elevador começa no térreo.");
 
             do
@@ -30,8 +30,8 @@ namespace ProjetoElevador
                                         2 - Remove uma pessoa do elevador.
                                         3 - Sobe um andar.
                                         4 - Desce um andar.
-                                        5 - Encerrar aplicação");
-                Console.ForegroundColor = ConsoleColor.Yellow; //Define a cor para DarkYellow (padrão).
+                                        5 - Encerrar a aplicação.");
+                Console.ForegroundColor = ConsoleColor.Yellow; //Define a cor para Yellow (padrão).
 
                 //Variavel que guarda a opção escolhida.
                 opcaoEscolhida = Console.ReadLine();
