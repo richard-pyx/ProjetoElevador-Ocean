@@ -6,3 +6,5 @@ Projeto criado com a finalidade de aplicar o conhecimento adquirido durante a Jo
 > [Link para o projeto na Azure utilizando WebApp.](https://projetoelevador-richard.azurewebsites.net/)
 
 - Crie um aplicativo do tipo página (Canvas App) pelo Power Apps que represente um Login, apenas o front-end deve ser realizado, sem conexão com tabela.
+> Minha página de login:
+> <img src="https://files.catbox.moe/lzwty3.png">
